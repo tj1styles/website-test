@@ -1,0 +1,38 @@
+.one{
+    color: white;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 700px;
+    margin-top: 10px;
+}
+.one:hover{
+    color: palevioletred;
+    text-decoration: none;
+}
+.two{
+    font-weight: bold;
+}
+
+
+.four{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 1px solid palevioletred;
+}
+.six{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid orange;
+    margin-left: 105px;
+}
+.seven{
+    background-image: url(./images/glozzyb/computer.jpg);
+    background-repeat: 1;
+}
+.eight{
+    font-weight: 700;
+    letter-spacing: 1px;
+}
