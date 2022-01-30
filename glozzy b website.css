@@ -30,7 +30,8 @@
 }
 .seven{
     background-image: url(./images/glozzyb/computer.jpg);
-    background-repeat: 1;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .eight{
     font-weight: 700;
